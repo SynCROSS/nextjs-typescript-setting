@@ -1,5 +1,5 @@
-function Index() {
-  return 'yee';
+function Index(): JSX.Element {
+  return <div>Hello World!</div>;
 }
 
 export default Index;
