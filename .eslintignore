@@ -1,0 +1,6 @@
+.eslintrc.js
+node_modules
+build
+public
+next.env.d.ts
+next.config.js
